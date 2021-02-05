@@ -11,9 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [https://jainmayanka.github.io/](https://jainmayanka.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JainMayankA)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayankajain/)
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/mayank_a_jain" target="blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </p>
