@@ -69,6 +69,8 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/in/mayankajain"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" href="https://github.com/JainMayankA/"/>
 <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" href="https://www.hackerrank.com/mayank_a_jain"/>
+<img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href ="https://www.instagram.com/_mayankj__/"/>
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href = "mailto:maxjain71@gmail.com"/>
 </p>
 
 
