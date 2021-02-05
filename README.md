@@ -1,7 +1,9 @@
-<h2 align = "center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="500"></h3>
-<h1 align="center">Hi , I'm Mayank Ambalal Jain</h1>
-<h3 align="center">Aspiring full stack developer or computer vision engineer. Currently, I am developing full-stack projects for sharpening comprehensive MERN stack skills. Lately, I completed a "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas.</h3>
-**Knowledge:**<p>Agile Methodology, Scrum, Software Management and Measurement, SDLC, STLC, MERN stack, Django stack, CMS, UX/UI, Software Testing Methodologies, JUnit, UML, APIs, Android Development, O.O. Design & Programming, Keypoint Detection, Image Classification, Recognition & Segmentation, Object Detection, Tracking and Localization, Image Processing, Information Retrieval, Hyperparameter Optimization, Multi-class Learning & Classification.</p>
+<h2 align = "left"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100" height="100"></h2> <h2 align = "right"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="100" height="100"></h2>
+
+<h1 align="center">Hi, I'm Mayank Ambalal Jain</h1>
+<h3 align="center">An aspiring full stack developer or computer vision engineer. Currently, I am developing full-stack projects for sharpening comprehensive MERN stack skills. Lately, I completed a "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas.</h3>
+# Knowledge:
+<p>Agile Methodology, Scrum, Software Management and Measurement, SDLC, STLC, MERN stack, Django stack, CMS, UX/UI, Software Testing Methodologies, JUnit, UML, APIs, Android Development, O.O. Design & Programming, Keypoint Detection, Image Classification, Recognition & Segmentation, Object Detection, Tracking and Localization, Image Processing, Information Retrieval, Hyperparameter Optimization, Multi-class Learning & Classification.</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jainmayanka&label=Profile%20views&color=0e75b6&style=plastic" alt="jainmayanka" /></p>
 
@@ -67,5 +69,4 @@
 <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" href="https://www.hackerrank.com/mayank_a_jain"/>
 </p>
 
-<h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></h2>
 
