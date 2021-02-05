@@ -15,7 +15,7 @@
 <p align="left">
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JainMayankA)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayankajain/)
-<a href="https://www.hackerrank.com/mayank_a_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mayank_a_jain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mayank_a_jain" target="blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
