@@ -1,6 +1,6 @@
 <h2 align = "center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="500"></h2>
 
-<h1 align="center">Hi, I'm Mayank Ambalal Jain</h1>
+<h1 align="center">Hi, I'm Mayank</h1>
 <h3 align="center">An aspiring full stack developer or computer vision engineer. Currently, I am developing full-stack projects for sharpening comprehensive MERN stack skills. Lately, I completed a "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas.</h3>
 # Knowledge:
 <p>Agile Methodology, Scrum, Software Management and Measurement, SDLC, STLC, MERN stack, Django stack, CMS, UX/UI, Software Testing Methodologies, JUnit, UML, APIs, Android Development, O.O. Design & Programming, Keypoint Detection, Image Classification, Recognition & Segmentation, Object Detection, Tracking and Localization, Image Processing, Information Retrieval, Hyperparameter Optimization, Multi-class Learning & Classification.</p>
