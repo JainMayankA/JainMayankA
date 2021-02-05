@@ -1,4 +1,4 @@
-<h2 align = "left"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100" height="100"></h2> <h2 align = "right"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="100" height="100"></h2>
+<h2 align = "center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="500"></h2>
 
 <h1 align="center">Hi, I'm Mayank Ambalal Jain</h1>
 <h3 align="center">An aspiring full stack developer or computer vision engineer. Currently, I am developing full-stack projects for sharpening comprehensive MERN stack skills. Lately, I completed a "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas.</h3>
@@ -55,11 +55,12 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainmayanka&show_icons=true&theme=radical&locale=en&layout=compact" alt="jainmayanka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainmayanka&show_icons=true&theme=radical&locale=en&layout=compact" alt="jainmayanka"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainmayanka&show_icons=true&locale=en" alt="jainmayanka"/></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jainmayanka&" alt="jainmayanka"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainmayanka&show_icons=true&locale=en" alt="jainmayanka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainmayanka&" alt="jainmayanka" /></p>
+<h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="500" height="500"></h2>
 
 
 <h3 align="left">Connect with me:</h3>
