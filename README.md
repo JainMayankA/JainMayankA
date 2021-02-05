@@ -14,7 +14,7 @@
 
 - 💼 Searching for full-time [Entry level] jobs as a **Full stack Developer or Computer Vision Engineer**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/JainMayankA/)
+- 👨‍💻 All of my projects are available  [here](https://github.com/JainMayankA/)
 
 - 💬 Conversant on **Full Stack Development or Computer Vision Solutions**
 
@@ -54,9 +54,9 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainmayanka&show_icons=true&theme=radical&locale=en&layout=compact" alt="jainmayanka"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainmayanka&show_icons=true&locale=en" alt="jainmayanka"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jainmayanka&" alt="jainmayanka"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainmayanka&show_icons=true&theme=radical&locale=en&layout=compact" alt="jainmayanka"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jainmayanka&show_icons=true&locale=en" alt="jainmayanka"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jainmayanka&" alt="jainmayanka"/></p>
 
 
 <h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="500" height="500"></h2>
