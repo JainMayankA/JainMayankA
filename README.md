@@ -1,12 +1,12 @@
 <h2 align = "center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="500"></h2>
 
-<h1 align="center">Hi :wave: , I'm Max 😀</h1>
-<p align="left">An aspiring full stack developer or computer vision engineer. Currently, I am developing full-stack projects for sharpening comprehensive MERN stack skills. Lately, I completed a "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas.</p>
+<h1 align="center">Hi :wave: , I'm Max 😀 /play secret</h1>
+<p align="left">An aspiring full stack developer or computer vision engineer :smiley: . Currently, I am developing :computer: full-stack projects for sharpening comprehensive MERN stack skills. Lately, I completed a :dart: "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always :open_file_folder: open to collaborating on projects and innovative/disruptive ideas :bulb:.</p>
 <p>Knowledge: Agile Methodology, Scrum, Software Management and Measurement, SDLC, STLC, MERN stack, Django stack, CMS, UX/UI, Software Testing Methodologies, JUnit, UML, APIs, Android Development, O.O. Design & Programming, Keypoint Detection, Image Classification, Recognition & Segmentation, Object Detection, Tracking and Localization, Image Processing, Information Retrieval, Hyperparameter Optimization, Multi-class Learning & Classification.</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jainmayanka&label=Profile%20views&color=0e75b6&style=plastic" alt="jainmayanka" /></p>
 
-- 🎓 I’m computer science graduate student **The University of Texas - Arlington**
+- 🎓 I’m computer science graduate student at **The University of Texas - Arlington**
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking to collaborate on **full stack or computer vision projects**
 
-- 💼 Searching for full-time [Entry level] jobs as a **Full stack Developer or Computer Vision Engineer**
+- 💼 Applying for full-time [Entry level] jobs as a **Full stack Developer or Computer Vision Engineer**
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/JainMayankA/)
 
@@ -58,7 +58,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainmayanka&show_icons=true&theme=radical&locale=en&layout=compact" alt="jainmayanka"/></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jainmayanka&show_icons=true&locale=en" alt="jainmayanka"/></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jainmayanka&" alt="jainmayanka"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainmayanka&" alt="jainmayanka"/></p>
 
 
 <h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="500" height="500"></h2>
