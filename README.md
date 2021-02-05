@@ -1,4 +1,4 @@
-### Hi there 👋 ${JainMayanA}.{JainMayanA}![visitors],(https://visitor-badge.glitch.me/badge?page_id=JainMayankA.visitor-badge)
+### Hi there 👋 ${JainMayanA}.{JainMayanA},(https://visitor-badge.glitch.me/badge?page_id=JainMayankA.visitor-badge)
 I am a computer science student seeking full time [entry-level] job starting May 2021.I am Mayank Ambalal Jain, a computer science student searching for a full-time [entry-level] job starting May 2021.  
 
 <!--
