@@ -58,7 +58,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainmayanka&show_icons=true&theme=radical&locale=en&layout=compact" alt="jainmayanka"/></p> -->
   <img src="https://github-readme-stats.vercel.app/api?username=jainmayanka&show_icons=true&locale=en" alt="jainmayanka"/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&theme=default)]
 
 
 
