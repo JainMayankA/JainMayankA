@@ -27,7 +27,9 @@
 - ⚡ Hobbies **Basketball, Dance, Music, Cooking and Travelling.**
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA)](#)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
