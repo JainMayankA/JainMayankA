@@ -4,7 +4,6 @@
 <p align="left">An aspiring full stack developer or computer vision engineer :smiley: . Currently, I am developing full-stack :computer: projects for sharpening comprehensive MERN stack skills. Lately, I completed a :dart: "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas :bulb: :open_file_folder:.</p>
 <p>Knowledge: Agile Methodology, Scrum, Software Management and Measurement, SDLC, STLC, MERN stack, Django stack, CMS, UX/UI, Software Testing Methodologies, JUnit, UML, APIs, Android Development, O.O. Design & Programming, Keypoint Detection, Image Classification, Recognition & Segmentation, Object Detection, Tracking and Localization, Image Processing, Information Retrieval, Hyperparameter Optimization, Multi-class Learning & Classification.</p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jainmayanka&label=Profile%20views&color=0e75b6&style=plastic" alt="jainmayanka" /></p>
 
 - 🎓 I’m a computer science graduate student at **The University of Texas - Arlington**
 
@@ -66,6 +65,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainmayanka&show_icons=true&locale=en" alt="jainmayanka" /></p>
 
 <h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="500" height="500"></h2>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jainmayanka&label=Profile%20views&color=red&style=plastic" alt="jainmayanka" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -76,5 +76,6 @@
 <a href ="https://www.instagram.com/_mayankj__"><img alt="Instagram" src="https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href = "mailto:maxjain71@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 
 
