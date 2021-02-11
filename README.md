@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/JainMayankA/)
 
-- 💬 Conversant on **Full Stack Development or Computer Vision Solutions**
+- 💬 Conversant on **Full Stack Development or Computer Vision Domain**
 
 - 📫 How to reach me **maxjain71@gmail.com**
 
