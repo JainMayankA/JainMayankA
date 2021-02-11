@@ -1,4 +1,4 @@
-<h2 align = "center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="500"></h2>
+<h2 align = "center"><img src="main.gif" alt="Coder GIF" width="500" height="500"></h2>
 
 <h1 align="center">Hi :wave: , I'm Mayank (Max) 😀 </h1>
 <p align="left">An aspiring full stack developer or computer vision engineer :smiley: . Currently, I am developing full-stack :computer: projects for sharpening comprehensive MERN stack skills. Lately, I completed a :dart: "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas :bulb: :open_file_folder:.</p>
