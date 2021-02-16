@@ -28,7 +28,7 @@
 
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA)](#)-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA" alt="jainmayanka" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&" alt="jainmayanka" />
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA)]-->
 
 
