@@ -28,7 +28,7 @@
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA" alt="jainmayanka" />
+<a href = "https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&"<img align="center" alt="jainmayanka" /></a>
 
 
 
