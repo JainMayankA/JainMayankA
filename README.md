@@ -28,8 +28,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA)](#)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainmayanka&" alt="jainmayanka" /></p>
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&" alt="jainmayanka" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA)]
 
 
 <h3 align="left">Languages and Tools:</h3>
