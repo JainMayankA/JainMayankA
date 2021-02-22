@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **maxjain71@gmail.com**
 
-- 📄 Know about my experiences [Resume(still not attached)](xyz)
+<!-- 📄 Know about my experiences [Resume(still not attached)](xyz)-->
 
 - ⚡ Hobbies **Basketball, Dance, Music, Cooking and Travelling.**
 
