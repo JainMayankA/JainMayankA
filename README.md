@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking to collaborate on **full stack or computer vision projects**
 
-- 💼 Applying for full-time [Entry level] jobs as a **Full stack Developer or Computer Vision Engineer**
+- 💼 Applying for full-time [Entry level] jobs as a **Full Stack Web Developer or Computer Vision Engineer**
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/JainMayankA/)
 
@@ -76,7 +76,7 @@
 
 
 
-<!--<h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></h2>-->
+<h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></h2>
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jainmayanka&label=Profile%20views&color=red&style=plastic" alt="jainmayanka" /></p>-->
 
 
