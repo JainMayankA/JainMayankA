@@ -29,7 +29,7 @@
 
 <a href = "https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&" alt="jainmayanka" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JainMayankA&layout=compact&langs_count=10&hide=jupyter)](https://github.com/JainMayankA?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JainMayankA&layout=compact&langs_count=10&hide=jupyter notebook)](https://github.com/JainMayankA?tab=repositories)
 
 
 
