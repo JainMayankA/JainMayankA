@@ -79,8 +79,8 @@
 
 
 
-<h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></h2>
-<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jainmayanka&label=Profile%20views&color=red&style=plastic" alt="jainmayanka" /></p>-->
+<!--<h2 align = "center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></h2>-->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jainmayanka&label=Profile%20views&color=red&style=plastic" alt="jainmayanka" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
