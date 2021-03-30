@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi :wave: , I'm Mayank (Max) 😀 </h1>
 <p align="left">An aspiring full stack developer or computer vision engineer :smiley: . Currently, I am developing MERN stack :computer: projects for sharpening comprehensive  full-stack skills. Lately, I completed a :dart: "Computer Vision Nanodegree" under Udacity Nanodegree Program. I am always open to collaborating on projects and innovative/disruptive ideas :bulb: :open_file_folder:.</p>
-<p>Knowledge: Agile Methodology, Scrum, Software Management and Measurement, SDLC, STLC, MERN stack, Django stack, CMS, UX/UI, Software Testing Methodologies, JUnit, UML, APIs, Android Development, O.O. Design & Programming, Keypoint Detection, Image Classification, Recognition & Segmentation, Object Detection, Tracking and Localization, Image Processing, Information Retrieval, Hyperparameter Optimization, Multi-class Learning & Classification.</p>
+<!--<p>Knowledge: Agile Methodology, Scrum, Software Management and Measurement, SDLC, STLC, MERN stack, Django stack, CMS, UX/UI, Software Testing Methodologies, JUnit, UML, APIs, Android Development, O.O. Design & Programming, Keypoint Detection, Image Classification, Recognition & Segmentation, Object Detection, Tracking and Localization, Image Processing, Information Retrieval, Hyperparameter Optimization, Multi-class Learning & Classification.</p>-->
 
 
 - 🎓 I’m a computer science graduate student at **The University of Texas - Arlington**
