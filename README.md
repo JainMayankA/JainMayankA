@@ -15,7 +15,7 @@
 
 - 💼 Applying for full-time [Entry level] jobs as a **Full Stack Web Developer or Computer Vision Engineer**
 
-- 👨‍💻 All of my projects are available  [here](https://github.com web/JainMayankA?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/JainMayankA?tab=repositories)
 
 - 💬 Conversant on **Full Stack Web Development or Computer Vision Domain**
 
