@@ -27,7 +27,7 @@
 
 
 
-<a href = "https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&" alt="jainmayanka" /></a>
+<a href = "https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA&"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JainMayankA" alt="jainmayanka" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JainMayankA&layout=compact&langs_count=10&exclude_repo=NDCV,AI-Medicine,Machine-Learning-Project-)](https://github.com/JainMayankA?tab=repositories)
 
